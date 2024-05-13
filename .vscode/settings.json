@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "map": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp",
+        "format": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "numbers": "cpp",
+        "iostream": "cpp",
+        "valarray": "cpp"
+    }
+}
